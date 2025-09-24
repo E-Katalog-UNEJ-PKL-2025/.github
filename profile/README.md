@@ -17,12 +17,12 @@ PKL UNEJ 2025 - Fakultas Ilmu Komputer Universitas Jember
 | Member's name                   | NIM          | Path             | Information                                                              |
 |---------------------------------|--------------|------------------|--------------------------------------------------------------------------|
 | Luthfi Aulia Akbar              | 202410102085 | Project Manager  | [LinkedIn]()                                                             |
-| Bima Jati Kusuma                | 212410102020 | System Analyst   | [LinkedIn]()                                                             |
-| Zulfan Riski Darusalam          | 212410102055 | System Analyst   | [LinkedIn]()                                                             |
-| Sukma Maulana Indrajid          | 212410102077 | Designer Diagram | [LinkedIn]()                                                             |
+| Bima Jati Kusuma                | 212410102020 | System Analyst   | [LinkedIn](https://www.linkedin.com/in/bima-jati-kusuma/)                |
+| Zulfan Riski Darusalam          | 212410102055 | System Analyst   | [LinkedIn](https://www.linkedin.com/in/zulfan-riski-darusalam-0bab47220/)|
+| Sukma Maulana Indrajid          | 212410102077 | Designer Diagram | [LinkedIn](https://www.linkedin.com/in/sukma-maulana-indrajid/)          |
 | Muhammad Ikbal Arip Zakariya    | 212410102026 | Designer Diagram | [LinkedIn]()                                                             |
 | Riki Irawan                     | 212410102100 | Designer UI/UX   | [LinkedIn]()                                                             |
-| Reyhan Afta Bimantara           | 212410102092 | Designer UI/UX   | [LinkedIn]()                                                             |
-| Farhan Burhanudin Saifullah     | 212410102033 | Programmer (FE)  | [LinkedIn]()                                                             |
+| Reyhan Afta Bimantara           | 212410102092 | Designer UI/UX   | [LinkedIn](https://www.linkedin.com/in/reyhan-afta-bimantara-b40586220/) |
+| Farhan Burhanudin Saifullah     | 212410102033 | Programmer (FE)  | [LinkedIn](https://www.linkedin.com/in/farhan-burhanudin-75a213220/)     |
 | Mohamad Ridwan Masykur          | 212410102044 | Programmer (BE)  | [LinkedIn](https://www.linkedin.com/in/mohamadridwanmasykur/)            |
 | Guntur Wahyudi                  | 212410102033 | Tester           | [LinkedIn]()                                                             |
