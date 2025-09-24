@@ -26,4 +26,3 @@ PKL UNEJ 2025 - Fakultas Ilmu Komputer Universitas Jember
 | Farhan Burhanudin Saifullah     | 212410102033 | Programmer (FE)  | [LinkedIn]()                                                             |
 | Mohamad Ridwan Masykur          | 212410102044 | Programmer (BE)  | [LinkedIn](https://www.linkedin.com/in/mohamadridwanmasykur/)            |
 | Guntur Wahyudi                  | 212410102033 | Tester           | [LinkedIn]()                                                             |
-<img width="931" height="863" alt="image" src="https://github.com/user-attachments/assets/23671303-df45-4551-9829-b0fe2ed2cff5" />
