@@ -25,4 +25,3 @@ PKL UNEJ 2025 - Fakultas Ilmu Komputer Universitas Jember
 | Reyhan Afta Bimantara           | 212410102092 | Designer UI/UX   | [LinkedIn](https://www.linkedin.com/in/reyhan-afta-bimantara-b40586220/) |
 | Farhan Burhanudin Saifullah     | 212410102033 | Programmer (FE)  | [LinkedIn](https://www.linkedin.com/in/farhan-burhanudin-75a213220/)     |
 | Mohamad Ridwan Masykur          | 212410102044 | Programmer (BE)  | [LinkedIn](https://www.linkedin.com/in/mohamadridwanmasykur/)            |
-| Guntur Wahyudi                  | 212410102033 | Tester           | [LinkedIn]()                                                             |
